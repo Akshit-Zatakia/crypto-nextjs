@@ -1,6 +1,8 @@
 ## Crypto
 
-This is a project which displays the crypto currencies and details about it. It is developed using [Next.js](https://nextjs.org/).
+This is a project which displays the crypto currencies and details about it. It is developed using [Next.js](https://nextjs.org/).<br>
+
+[Demo](https://crypto-nextjs.vercel.app/)
 
 ### ScreenShots
 
